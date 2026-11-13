@@ -1,5 +1,5 @@
 
-# Case 01: [Alert rule name, e.g. SOC282 Phishing Alert – Deceptive Mail Detected]
+# Case 00: [Alert rule name, e.g. SOC282 Phishing Alert – Deceptive Mail Detected]
 
 **Verdict:** True Positive / False Positive | **Severity:** Low / Medium / High | **Escalated:** Yes / No
 
